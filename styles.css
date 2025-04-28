@@ -1,0 +1,100 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* A caixa não cresce,
+    o contudo dentro dela q diminui*/
+    background-color: #e7eceb;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+    /* tecnica do relogio
+    12horas - 3horas - 6horas - 9horas*/
+}
+
+.link-header {
+    font-weight: 600; /*mais fina mais grossa*/
+    font-size: 24px; /*tamanho da fonte*/
+    line-height: 100%; /*alutura da linha*/
+    /*letter-spacing: 0%;*/
+    color: #989D9C;
+    cursor: pointer; /*mazinha quando passa na palavra*/
+    margin: 23px; /*espaço entre as palavbras*/
+}
+
+.button-header {
+    background-color: #665AE1;
+    border-radius: 20.5px;
+    border: none;
+    /*altura e largura*/
+    width: 130px;
+    height: 41px;
+    font-weight: 600; /* engrossa a letra */
+    font-size: 24px;
+    line-height: 100%;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.logo-image {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 100%;
+    color: #665AE1;
+   
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 100%;
+}
+
+.text-section {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 37px     ;
+}
+
+.button-main {
+    background-color: #ADFF00;
+    border-radius: 30px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 100%;
+    color: #000000;
+
+
+
+    
+
+
+
+
+
+
+    
+    
+
+}
