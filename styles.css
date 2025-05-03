@@ -54,7 +54,6 @@ h1 {
     font-size: 100px;
     line-height: 100%;
     color: #665AE1;
-   
 }
 
 h2 {
@@ -84,17 +83,95 @@ h2 {
     font-size: 28px;
     line-height: 100%;
     color: #000000;
+}
 
+/*---- R E S P O N S I V O ---------*/
 
-
+@media screen and (max-width: 851px) {
     
+    header {
+        display: none;
+    }
 
+    .logo-image {
+        height: 30%;
+        width: 90%;
+        position: relative;
+        top: 50px;
+        left: 20px;
+        margin: 0;
+        padding-top: 20%;
+    }
 
+    section {
+        margin: 0;
+        padding-top: 10%;
+        width: 100vw;
+    }
+ 
+    h1 {
+        width: auto;
+        font-size: 50px;
+        line-height: 100%;
+        margin: 24px 50px 7px 50px;
+        text-align: center;
+    }
 
-
-
-
+    h2 {
+        width: auto;
+        font-size: 30px;
+        line-height: 100%;
+        text-align: center;
+    }
     
-    
+    p {
+       display: none;
+    }
 
+    .button-main {
+        margin: 15px auto; /* para ajustar auto num botao,
+        tem q mudar o display para block */
+        display: block;
+        height: 62px;
+        width: 269px;
+        font-size: 24px;
+        line-height: 34px;
+        text-align: center;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 851px) and (orientation: landscape) {
+    
+    .logo-image {
+        width: 400px;
+        height: 350px;
+        margin-left: 20px;
+        padding-top: 0;
+        padding-bottom: 36px;
+        display: inline-block;
+    }
+
+    section {
+        width: auto;
+        display: inline-block;
+        position: relative;
+        bottom: 79px;
+        left: 46px;
+    }
+    
+    h1 {
+        width: auto;
+        font-size: 50px;
+        line-height: 100%;
+        margin: 24px 50px 7px 50px;
+        text-align: center;
+    }
+
+    h2 {
+        width: auto;
+        font-size: 30px;
+        line-height: 100%;
+        text-align: center;
+    }   
 }
