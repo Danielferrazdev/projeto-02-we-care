@@ -1,27 +1,19 @@
-# 🌐 Projeto 03 — Wide Coverage
+<h1 align="center"># 🌐 Projeto 03 — Wide Coverage</h1>
 
-> ⚙️ Projeto desenvolvido para praticar a estruturação com **HTML semântico**, aplicação de **CSS em menus e botões**, e tornar a página **responsiva para diferentes dispositivos**.
+> <p align="center">⚙️ Projeto desenvolvido para praticar a estruturação com **HTML semântico**, aplicação de **CSS em menus e botões**, e tornar a página **responsiva para diferentes dispositivos**.</p>
 
 ---
 
-## 📊 Linguagens usadas
+## 📊 🚀 Linguagens usadas
 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-## 📊 Linguagens utilizadas no projeto
 
 | Linguagem | Porcentagem estimada |
 |----------|----------------------|
 | 🧱 HTML  | 31%                  |
 | 🎨 CSS   | 69%                  |
-
----
-
-## 🚀 Tecnologias utilizadas
-
-- 🧱 HTML5  
-- 🎨 CSS3
 
 ---
 
@@ -49,7 +41,7 @@ Durante o desenvolvimento, aprendi:
 
 ## 🧠 Visualização do projeto:
 
-- 📱 Versão monitor:
+- 📱 Versão desktop:
 
 ![Tela do projeto](./img/we-care-print-monitor.png)
 
