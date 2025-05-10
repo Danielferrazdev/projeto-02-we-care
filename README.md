@@ -47,8 +47,15 @@ Durante o desenvolvimento, aprendi:
 
 ---
 
+![Tela do projeto](./img/)
+
+
+---
+
 ## ▶️ Como executar localmente
 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Danielferrazdev/projeto-03-wide-coverage.git
+
+
