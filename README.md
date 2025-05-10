@@ -12,7 +12,7 @@
 
 | Linguagem | Porcentagem estimada |
 |----------|----------------------|
-| 🧱 HTML  | 31%                  |
+| 📄 HTML  | 31%                  |
 | 🎨 CSS   | 69%                  |
 
 ---
@@ -40,8 +40,8 @@ Durante o desenvolvimento, aprendi:
 ---
 
 ## 🧠 Visualização do projeto:
-
-- 📱 Versão desktop:
+ 
+- 💻 Versão desktop:
 
 ![Tela do projeto](./img/we-care-print-monitor.png)
 
