@@ -1,4 +1,4 @@
-<h1 align="center"># 🌐 Projeto 02 — We CARE</h1>
+<h1 align="center"># 🌐 Projeto 02 — WE CARE</h1>
 
 > <p align="center">⚙️ Projeto desenvolvido para praticar a estruturação com **HTML semântico**, aplicação de **CSS em menus e botões**, e tornar a página **responsiva para diferentes dispositivos**.</p>
 
