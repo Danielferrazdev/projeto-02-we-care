@@ -1,4 +1,4 @@
-<h1 align="center"># 🌐 Projeto 03 — Wide Coverage</h1>
+<h1 align="center"># 🌐 Projeto 02 — We CARE</h1>
 
 > <p align="center">⚙️ Projeto desenvolvido para praticar a estruturação com **HTML semântico**, aplicação de **CSS em menus e botões**, e tornar a página **responsiva para diferentes dispositivos**.</p>
 
@@ -55,6 +55,6 @@ Durante o desenvolvimento, aprendi:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Danielferrazdev/projeto-03-wide-coverage.git
+git clone https://github.com/Danielferrazdev/projeto-02-we-care.git
 
 
